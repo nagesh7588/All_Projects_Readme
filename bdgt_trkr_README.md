@@ -180,7 +180,6 @@ The application tracks:
 - Azure Application Insights integration
 - Performance monitoring
 - Error tracking and logging
-- https://in.indeed.com/viewjob?jk=47acaecac51e5613&from=shareddesktop_copy
 
 ## 🛠️ Development Tools
 
@@ -193,7 +192,7 @@ The application tracks:
 
 ### Paid Subscriptions Included
 - ✅ **GitHub Developer Support**
-- ✅ **ChatGPT Plus**
+- ✅ **ChatGPT **
 - ✅ **Azure Web App Services**
 - ✅ **Stack.ai Integration**
 
